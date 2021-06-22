@@ -83,7 +83,7 @@
 					el( RichText, {
 						placeholder: i18n.__( 'Add card text', 'q30-card-block' ),
 						multiline: 'p',
-						formattingControls: ['bold', 'italic', 'link'],
+						formattingControls: [ 'bold', 'italic', 'link' ],
 						isSelected: true,
 						style: { textAlign: attributes.alignment },
 						value: attributes.cardtext,

@@ -3,7 +3,7 @@
 /**
  * Plugin Name: q30 Card Block
  * Plugin URI: https://github.com/jhope-q30/q30-card-block
- * Description: This adds card layout/style to any theme q30-card-style
+ * Description: This adds card layout/style to any theme q30-card-style. Styles that can be extended via theme are the parent class ( .wp-block-q30-card-block-q30-card-style ), and child classes within ( .card-image, .card-image img, .card-content, .card-content .card-text, .card-content .card-text p ).
  * Version: 1.0.0
  * Author: jhope@q30design.com
  *
