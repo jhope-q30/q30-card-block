@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: q30 Card Block
- * Plugin URI: https://github.com/WordPress/q30-card-block
+ * Plugin URI: https://github.com/jhope-q30/q30-card-block
  * Description: This adds card layout/style to any theme q30-card-style
  * Version: 1.0.0
  * Author: jhope@q30design.com
